@@ -1,0 +1,11 @@
+
+JAVASCRIPT
+BOOKMARKLET
+ADVANCED
+PROGRAMMING
+by
+Christopher Topalian
+ALL RIGHTS RESERVED Copyright 2000-2023
+
+/*----*/
+
