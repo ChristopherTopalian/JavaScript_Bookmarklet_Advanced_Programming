@@ -1,6 +1,6 @@
 
-    Dedicated
-           to
+  Dedicated
+     to
 God the Father
 
 /*----*/
